@@ -20,9 +20,9 @@ https://data.mendeley.com/datasets/992mh7dk9y)
 Se utilizó Python como herramienta para el código y Ganttpro para el cronograma de actividades.
 
 ## Composición del repositorio
-- Memoria de TFM
-- Código
-- Archivo csv original
+- [Memoria de TFM](https://github.com/danamejia1810/fraud-insurance-detection/blob/main/TFM_Dayana_Mejia.pdf)
+- [Código](https://github.com/danamejia1810/fraud-insurance-detection/blob/main/codigoTFM-Insurance.ipynb)
+- [Archivo csv original](https://github.com/danamejia1810/fraud-insurance-detection/blob/main/insurance_claims.csv)
 
 ## Resultados
 Los resultados muestran que la combinación de Random Under Sampler con Ada Boost ofrece el equilibrio más óptimo que se encuentra entre precisión y recall, destacando la importancia de la selección adecuada de características y la optimización de hiperparámetros.
@@ -30,10 +30,6 @@ Los resultados muestran que la combinación de Random Under Sampler con Ada Boos
 ## Conclusión
 Este trabajo aporta a la lucha contra el fraude en seguros de automóviles, demostrando el potencial de las técnicas de machine learning para mejorar la detección de fraude y contribuyendo al desarrollo de estrategias más robustas y justas. Ofrece una base para futuras investigaciones y desarrollos en el campo.
 
-## Cómo Contribuir
-Las contribuciones son bienvenidas. Por favor, envíen sus pull requests o abran un issue para discutir lo que le gustaría cambiar.
-
 ## Licencia
-
 Este proyecto está licenciado bajo la GNU General Public License v3.0. Más información. [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
 
